@@ -163,7 +163,7 @@ const I18N = {
   bn: {
     common: {
       navHome: "প্রথম পাতা", navWedding: "বিবাহ", navReception: "বৌভাত",
-      together: "উভয় পরিবার",
+      together: "উভয় পরিবারসহ",
       request: "আপনাকে আমন্ত্রণ জানাই",
       scroll: "নিচে দেখুন", viewMap: "গুগল ম্যাপে দেখুন", backHome: "আমন্ত্রণ পাতায় ফিরুন",
       cdDays: "দিন", cdHours: "ঘণ্টা", cdMinutes: "মিনিট", cdSeconds: "সেকেন্ড",
