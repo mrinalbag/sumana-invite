@@ -33,7 +33,6 @@ const USER_PHOTOS = [
   { file: "couple (2).webp", alt: "Sumana & Mrinal — the engagement" },
   { file: "couple (3).webp", alt: "Sumana & Mrinal — temple corridors" },
   { file: "couple (4).webp", alt: "Sumana & Mrinal — in the kash fields" },
-  { file: "couple (5).webp", alt: "Sumana & Mrinal — sunset by the sea" },
   { file: "couple (6).webp", alt: "Sumana & Mrinal — blue hour" },
   { file: "couple (8).webp", alt: "Sumana & Mrinal — heritage walk" },
   { file: "couple (9).webp", alt: "Sumana & Mrinal — by the sea" },
